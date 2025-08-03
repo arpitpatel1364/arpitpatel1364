@@ -3,7 +3,7 @@
    i know laguages like "HTML, CSS, JAVA SCRIPT AND REACT JS. " for front end and "PYTHON WITH DJANGO FRAMEWORK" for back end code  
 - 🌱 I’m currently working on my projects 
 - 📫 this is my email id : bhojaniarpit1432@gmail.com
-- my linkedin account : https://www.linkedin.com/in/arpit-patel-a72042221
+- my linkedin account : https://www.linkedin.com/in/arpit-bhojani-contact
 - 😄 Pronouns: he/his
 - ⚡ i seeking for job if anyone has refrance then give me updates on my gmail 
 
