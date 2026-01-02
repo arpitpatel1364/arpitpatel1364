@@ -7,7 +7,7 @@
   <a href="mailto:bhojaniarpit1432@gmail.com">
     <img src="https://img.shields.io/badge/Email-bhojaniarpit1432%40gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="www.linkedin.com/in/arpit-bhojani-contact">
+  <a href="https://linkedin.com/in/arpit-bhojani">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="tel:+917383181094">
@@ -48,8 +48,8 @@
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpitpatel1364&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitpatel1364&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arpitpatel1364&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitpatel1364&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Languages" height="180"/>
 </div>
 
 <br/>
