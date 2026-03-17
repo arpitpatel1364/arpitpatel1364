@@ -48,7 +48,6 @@
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpitpatel1364&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitpatel1364&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Languages" height="180"/>
 </div>
 
