@@ -83,8 +83,8 @@ That's the kind of engineer I'm becoming — one sprint at a time.
 <tr>
 <td width="50%" valign="top">
 
--- **On Backends** --<br/>
-A good Django app isn't just CRUD — it's role hierarchies, encryption layers, token-guarded endpoints, and a schema that can grow without breaking. I care about what happens when the system is under stress, not just when it's happy.
+-- **On AI Agents & RAG** --<br/>
+The next frontier isn't just models — it's models that *act*. I've built terminal-based AI agents and RAG pipelines that make LLMs genuinely useful over private data.
 
 -- **On Machine Learning** --<br/>
 I've gone from *zero* to training, deploying, and evaluating my own YOLO models in a single month. The journey taught me that ML is 20% modeling and 80% data — cleaning it, annotating it, pipelining it.
@@ -95,8 +95,9 @@ I've gone from *zero* to training, deploying, and evaluating my own YOLO models 
 -- **On Concurrency** --<br/>
 The GIL is not an enemy — it's a puzzle. I've shipped multiprocessing solutions that bypass it entirely, async pipelines that never block, and threading models that stay safe. Performance isn't a feature; it's a discipline.
 
--- **On AI Agents & RAG** --<br/>
-The next frontier isn't just models — it's models that *act*. I've built terminal-based AI agents and RAG pipelines that make LLMs genuinely useful over private data.
+-- **On Backends** --<br/>
+A good Django app isn't just CRUD — it's role hierarchies, encryption layers, token-guarded endpoints, and a schema that can grow without breaking. I care about what happens when the system is under stress, not just when it's happy.
+
 
 </td>
 </tr>
