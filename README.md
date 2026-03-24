@@ -32,7 +32,7 @@ I started with a simple question: *what if a program could understand the world 
 That curiosity led me deep into the **Python ecosystem** — from building ironclad backends in **Django** to training object-detection models that watch the world through a camera lens.
 
 Today I sit at the intersection of two disciplines most developers treat as separate:
-**Scalable Backend Engineering** and **Computer Vision / AI**. I believe the best systems are the ones where these two worlds talk to each other — where a trained model feeds a live API, where encryption logic guards a recruiter's private data, where a multiprocessing pipeline chews through 10,000 PDFs in seconds.
+**Scalable Backend Engineering** and **Computer Vision / AI**. I believe the best systems are the ones where these two worlds talk to each other — where a trained model feeds a live API, where encryption logic guards a recruiter's private data, where a multiprocessing pipeline chews through 10,000+ PDFs in seconds.
 
 That's the kind of engineer I'm becoming — one sprint at a time.
 
