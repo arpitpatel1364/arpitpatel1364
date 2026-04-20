@@ -90,7 +90,22 @@ That's the kind of engineer I'm becoming — one sprint at a time.
 ![Claude API](https://img.shields.io/badge/Claude%20API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-111F68?style=for-the-badge&logo=ultralytics&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![UV](https://img.shields.io/badge/UV-4B32C3?style=for-the-badge&logo=python&logoColor=white)
+![Pydantic AI](https://img.shields.io/badge/Pydantic--AI-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![DeepFace](https://img.shields.io/badge/DeepFace-00897B?style=for-the-badge&logo=python&logoColor=white)
+![InsightFace](https://img.shields.io/badge/InsightFace-1A237E?style=for-the-badge&logo=python&logoColor=white)
+![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-B71C1C?style=for-the-badge&logo=tensorflow&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 <br/><br/>
 
 | &nbsp;Domain | &nbsp;Technologies |
@@ -109,7 +124,12 @@ That's the kind of engineer I'm becoming — one sprint at a time.
 | **Web Automation** | `Playwright` · `GhostFetch` · `Headless Scraping` |
 | **Data Validation** | `Pydantic` · `Dataclasses` · `Type Annotations` |
 | **Anthropic / Claude** | `Claude API` · `Claude Code` · `Prompt Engineering` · `Agentic Workflows` · `RAG with Claude` |
-
+| **Auth & Validation** | `JWT` · `Token Auth` · `SQLAlchemy` · `Pydantic-AI` · `UV` |
+| **Biometrics & Spatial** | `MediaPipe` · `PalmID` · `AeroPiano` · `Gesture Recognition` |
+| **Vision & ML** | OpenCV · `YOLO / Ultralytics` · ROI Tracking · Streamlit · VisionForge |
+| **Security & Surveillance** | `ONVIF` · `RTSP/RTP` · `HLS` · `MJPEG` · `GStreamer` · `SSL/TLS` · `OAuth2` · `OWASP` |
+| **Edge AI & Deployment** | `ONNX` · `TensorRT` · `Raspberry Pi` · `On-device Inference` |
+| **AI Security** | `DeepFace` · `InsightFace` · `LPR/ALPR` · `Anomaly Detection` |
 </div>
 
 ---
@@ -364,7 +384,6 @@ Adopting **Pydantic** for rigorous data validation and typed models. Using **Pla
 | <img src="https://img.shields.io/badge/Active-1565C0?style=flat-square&labelColor=1a1a2e"/> | **Data Validation** | Pydantic-AI · UV · Advanced Type Systems |
 | <img src="https://img.shields.io/badge/Next-6A1B9A?style=flat-square&labelColor=1a1a2e"/> | **Deep Learning** | Neural Architectures · Backprop · CNNs · Attention |
 | <img src="https://img.shields.io/badge/Next-6A1B9A?style=flat-square&labelColor=1a1a2e"/> | **MLOps** | Model Versioning · CI/CD for ML · Monitoring in Production |
-
 </div>
 
 ---
@@ -377,7 +396,7 @@ Adopting **Pydantic** for rigorous data validation and typed models. Using **Pla
 
 <br/>
 
-<img src="https://img.shields.io/badge/Available%20for-Full--time%20%C2%B7%20%20%C2%B7%20Freelance%20%C2%B7%20Open%20Source-58A6FF?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Available%20for%20Open%20Source-58A6FF?style=for-the-badge&labelColor=1a1a2e"/>
 
 <br/><br/>
 
