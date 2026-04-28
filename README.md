@@ -111,7 +111,7 @@ That's the kind of engineer I'm becoming — one sprint at a time.
 
 | &nbsp;Domain | &nbsp;Technologies |
 |:---:|:---|
-| **Languages & Core** | Python · Bash |
+| **Languages & Core** | Python · Bash · JavaScript · C · .NET · PHP|
 | **Backend & Web** | Django · FastAPI · Flask · REST API · Token Auth · WebSockets |
 | **Task Queues & Caching** | `Celery` · `Redis` · `Pub/Sub` · `Rate Limiting` · `Background Workers` |
 | **Containers & Orchestration** | `Docker` · `Docker Compose` · `Kubernetes` · `Pod Management` · `Service Mesh` |
