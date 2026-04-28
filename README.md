@@ -190,7 +190,7 @@ I build *with* Claude, not just alongside it. From wiring the **Anthropic API** 
 
 ---
 
-## 📷 &nbsp;Spotlight — Sentrix-AI
+## 📷 &nbsp;Sentrix-AI
 
 > *Where computer vision meets physical security infrastructure.*
 
