@@ -40,7 +40,7 @@ If you're building something ambitious in **Backend Engineering**, **Computer Vi
 
 ---
 
-## <img src="https://img.icons8.com/fluency/28/story.png" width="26" valign="middle"/> &nbsp;The Story So Far
+## 🗂️ &nbsp;The Story So Far
 
 > *"I don't just write code — I architect systems that think, see, and scale."*
 
@@ -54,7 +54,7 @@ That's the kind of engineer I'm becoming — one sprint at a time.
 
 ---
 
-## <img src="https://img.icons8.com/fluency/28/settings.png" width="26" valign="middle"/> &nbsp;Technical Arsenal
+## ⚙️ &nbsp;Technical Arsenal
 
 <div align="center">
 
@@ -90,8 +90,8 @@ That's the kind of engineer I'm becoming — one sprint at a time.
 ![Claude API](https://img.shields.io/badge/Claude%20API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![Ultralytics](https://img.shields.io/badge/Ultralytics-111F68?style=for-the-badge&logo=ultralytics&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-111F68?style=for-the-badge&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -106,6 +106,7 @@ That's the kind of engineer I'm becoming — one sprint at a time.
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 ![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
 <br/><br/>
 
 | &nbsp;Domain | &nbsp;Technologies |
@@ -126,15 +127,15 @@ That's the kind of engineer I'm becoming — one sprint at a time.
 | **Anthropic / Claude** | `Claude API` · `Claude Code` · `Prompt Engineering` · `Agentic Workflows` · `RAG with Claude` |
 | **Auth & Validation** | `JWT` · `Token Auth` · `SQLAlchemy` · `Pydantic-AI` · `UV` |
 | **Biometrics & Spatial** | `MediaPipe` · `PalmID` · `AeroPiano` · `Gesture Recognition` |
-| **Vision & ML** | OpenCV · `YOLO / Ultralytics` · ROI Tracking · Streamlit · VisionForge |
 | **Security & Surveillance** | `ONVIF` · `RTSP/RTP` · `HLS` · `MJPEG` · `GStreamer` · `SSL/TLS` · `OAuth2` · `OWASP` |
 | **Edge AI & Deployment** | `ONNX` · `TensorRT` · `Raspberry Pi` · `On-device Inference` |
 | **AI Security** | `DeepFace` · `InsightFace` · `LPR/ALPR` · `Anomaly Detection` |
+
 </div>
 
 ---
 
-## <img src="https://img.icons8.com/fluency/28/idea.png" width="26" valign="middle"/> &nbsp;The Philosophy
+## 💡 &nbsp;The Philosophy
 
 > *I think of software in **systems**, not scripts.*
 
@@ -142,44 +143,44 @@ That's the kind of engineer I'm becoming — one sprint at a time.
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/Backend%20Engineering-092E20?style=flat-square&logo=django&logoColor=white" alt="Backend Engineering"/>
+**🟢 Backend Engineering**
 
 Three frameworks, one philosophy — **Django** for batteries-included production, **FastAPI** for async-first, high-throughput APIs, and **Flask** when lightweight control is what the system needs. I pair every API with **WebSockets** for real-time channels, **Celery** for heavy background tasks, and **Redis** for caching and pub/sub. Not tools — a stack.
 
 <br/>
 
-<img src="https://img.shields.io/badge/AI%20Agents%20%26%20RAG-6D28D9?style=flat-square&logo=openai&logoColor=white" alt="AI Agents & RAG"/>
+**🟣 AI Agents & RAG**
 
 The next frontier isn't just models — it's models that *act*. I've built terminal-based AI agents and RAG pipelines that make LLMs genuinely useful over private data. I've explored RAG hands-on using the **Claude API** — querying private corpora through a live Claude model, not just reading about it.
 
 <br/>
 
-<img src="https://img.shields.io/badge/Machine%20Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="Machine Learning"/>
+**🔴 Machine Learning**
 
 I've gone from *zero* to training, deploying, and evaluating my own YOLO models in a single month. The journey taught me that ML is 20% modeling and 80% data — cleaning it, annotating it, pipelining it. **VisionForge** was my answer: a full training toolkit built from scratch, with a Streamlit UI on top.
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/Camera%20Security%20Systems-0066CC?style=flat-square&logoColor=white" alt="Camera Security"/>
+**🔵 Camera Security Systems**
 
 From pulling live **RTSP** streams over **ONVIF** to integrating with **XVR/NVR** hardware — I work at the edge where physical security meets software intelligence. **FFmpeg** pipelines decode **H.264/H.265** frames in real time, feeding directly into YOLO detection models. PTZ control, stream health monitoring, multi-camera orchestration, and device discovery over IP networks are first-class engineering problems in my stack. **Sentrix-AI** is the result.
 
 <br/>
 
-<img src="https://img.shields.io/badge/Containers%20%26%20Orchestration-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker & Kubernetes"/>
+**🐳 Containers & Orchestration**
 
 Shipping code is one thing. Shipping systems that *stay up* is another. I containerize pipelines with **Docker**, compose multi-service environments cleanly, and manage deployments with **Kubernetes** — pods, services, scaling, health checks. Infrastructure is not an afterthought; it's the last mile between an idea and a running product.
 
 <br/>
 
-<img src="https://img.shields.io/badge/Concurrency-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Concurrency"/>
+**⚡ Concurrency**
 
 The GIL is not an enemy — it's a puzzle. I've shipped multiprocessing solutions that bypass it entirely, async pipelines that never block, and threading models that stay safe. Performance isn't a feature; it's a discipline.
 
 <br/>
 
-<img src="https://img.shields.io/badge/Claude%20%26%20Anthropic-CC785C?style=flat-square&logo=anthropic&logoColor=white" alt="Claude & Anthropic"/>
+**🤖 Claude & Anthropic**
 
 I build *with* Claude, not just alongside it. From wiring the **Anthropic API** into RAG pipelines to using **Claude Code** as a terminal-first dev partner — I treat Claude as infrastructure. Prompt engineering, agentic chaining, private-data retrieval: these are first-class engineering concerns in my stack, not afterthoughts.
 
@@ -189,7 +190,7 @@ I build *with* Claude, not just alongside it. From wiring the **Anthropic API** 
 
 ---
 
-## <img src="https://img.icons8.com/fluency/28/camera.png" width="26" valign="middle"/> &nbsp;Spotlight — Sentrix-AI
+## 📷 &nbsp;Spotlight — Sentrix-AI
 
 > *Where computer vision meets physical security infrastructure.*
 
@@ -197,7 +198,7 @@ I build *with* Claude, not just alongside it. From wiring the **Anthropic API** 
 <tr>
 <td width="100%" valign="top">
 
-### <img src="https://img.icons8.com/fluency/24/security-camera.png" width="22" valign="middle"/> &nbsp;Sentrix-AI — Intelligent Camera Security System
+### 🔒 &nbsp;Sentrix-AI — Intelligent Camera Security System
 
 <img src="https://img.shields.io/badge/Status-Actively%20Building-00C853?style=for-the-badge&labelColor=1a1a2e"/>
 &nbsp;
@@ -222,46 +223,7 @@ I build *with* Claude, not just alongside it. From wiring the **Anthropic API** 
 
 ---
 
-## <img src="https://img.icons8.com/fluency/28/source-code.png" width="26" valign="middle"/> &nbsp;Project Showcase
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### <img src="https://img.icons8.com/fluency/22/microscope.png" width="20" valign="middle"/> &nbsp;VisionForge
-<img src="https://img.shields.io/badge/YOLO%20%7C%20OpenCV%20%7C%20Streamlit-5C3EE8?style=flat-square&labelColor=1a1a2e"/>
-
-A complete YOLO model training toolkit built from scratch. Custom dataset ingestion, annotation preprocessing, training loop management, and live evaluation — all wrapped in a Streamlit UI. ML as an engineering discipline, not a notebook experiment.
-
----
-
-### <img src="https://img.icons8.com/fluency/22/spider-web.png" width="20" valign="middle"/> &nbsp;GhostFetch
-<img src="https://img.shields.io/badge/Playwright%20%7C%20Pydantic%20%7C%20Async-2EAD33?style=flat-square&labelColor=1a1a2e"/>
-
-Open-source headless scraping toolkit. Playwright-powered, Pydantic-validated, async-first. Handles dynamic JS-rendered pages, session management, and structured output — the scraper that doesn't get caught.
-
-</td>
-<td width="50%" valign="top">
-
-### <img src="https://img.icons8.com/fluency/22/document.png" width="20" valign="middle"/> &nbsp;PDF Slicer 2.0
-<img src="https://img.shields.io/badge/PyMuPDF%20%7C%20Multiprocessing%20%7C%20PyPDF-FF6600?style=flat-square&labelColor=1a1a2e"/>
-
-A multiprocessing PDF ingestion pipeline that processes 10,000+ documents in seconds. Built to bypass Python's GIL with a process pool architecture. The backbone of my RAG document ingestion workflow.
-
----
-
-### <img src="https://img.icons8.com/fluency/22/bot.png" width="20" valign="middle"/> &nbsp;Terminal AI Agent + RAG Pipeline
-<img src="https://img.shields.io/badge/Claude%20API%20%7C%20RAG%20%7C%20Python-CC785C?style=flat-square&labelColor=1a1a2e"/>
-
-A first-principles RAG system powered by the **Claude API**. Private document ingestion, embedding, retrieval, and context injection — all from the terminal. Built to understand how LLMs behave under the hood, not to wrap a library.
-
-</td>
-</tr>
-</table>
-
----
-
-## <img src="https://img.icons8.com/fluency/28/artificial-intelligence.png" width="26" valign="middle"/> &nbsp;Anthropic & Claude — A Dedicated Toolkit
+## 🤖 &nbsp;Anthropic & Claude — A Dedicated Toolkit
 
 > *Not just a user. A builder on top of the platform.*
 
@@ -269,7 +231,7 @@ A first-principles RAG system powered by the **Claude API**. Private document in
 <tr>
 <td width="33%" align="center" valign="top">
 
-### <img src="https://img.icons8.com/fluency/24/api.png" width="22" valign="middle"/> &nbsp;Claude API
+### 🔌 &nbsp;Claude API
 
 <img src="https://img.shields.io/badge/Anthropic%20API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
 
@@ -280,7 +242,7 @@ Integrating Claude directly into Python pipelines. Used the Anthropic API to pow
 </td>
 <td width="33%" align="center" valign="top">
 
-### <img src="https://img.icons8.com/fluency/24/design.png" width="22" valign="middle"/> &nbsp;Prompt Engineering
+### ✏️ &nbsp;Prompt Engineering
 
 <img src="https://img.shields.io/badge/Prompt%20Engineering-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
 
@@ -291,7 +253,7 @@ Designing prompts that hold up under edge cases. Structuring system prompts for 
 </td>
 <td width="33%" align="center" valign="top">
 
-### <img src="https://img.icons8.com/fluency/24/console.png" width="22" valign="middle"/> &nbsp;Claude Code
+### 💻 &nbsp;Claude Code
 
 <img src="https://img.shields.io/badge/Claude%20Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
 
@@ -305,7 +267,7 @@ Using Claude Code as a dev-loop accelerator — not for boilerplate generation, 
 
 ---
 
-## <img src="https://img.icons8.com/fluency/28/compass.png" width="26" valign="middle"/> &nbsp;Currently Exploring
+## 🧭 &nbsp;Currently Exploring
 
 <div align="center">
 
@@ -319,7 +281,7 @@ Using Claude Code as a dev-loop accelerator — not for boilerplate generation, 
 <tr>
 <td width="25%" align="center" valign="top">
 
-### <img src="https://img.icons8.com/fluency/24/chain.png" width="22" valign="middle"/> &nbsp;LangChain & LangGraph
+### 🔗 &nbsp;LangChain & LangGraph
 
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangGraph-6D28D9?style=for-the-badge&logo=graphql&logoColor=white"/>
@@ -329,17 +291,17 @@ Building **multi-step agentic workflows** beyond single-prompt RAG. LangGraph's 
 </td>
 <td width="25%" align="center" valign="top">
 
-### <img src="https://img.icons8.com/fluency/24/hug.png" width="22" valign="middle"/> &nbsp;Hugging Face & Ollama
+### 🤗 &nbsp;Hugging Face & Ollama
 
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white"/>
 
 Going deeper into **transformer architectures** and fine-tuning pre-trained models. Running **local LLMs** via Ollama — private, fast, no API costs.
 
 </td>
 <td width="25%" align="center" valign="top">
 
-### <img src="https://img.icons8.com/fluency/24/robot-2.png" width="22" valign="middle"/> &nbsp;Claude API & Claude Code
+### 🤖 &nbsp;Claude API & Claude Code
 
 <img src="https://img.shields.io/badge/Claude%20API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude%20Code-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
@@ -349,7 +311,7 @@ Using the **Anthropic API** to wire Claude into real pipelines — RAG, agents, 
 </td>
 <td width="25%" align="center" valign="top">
 
-### <img src="https://img.icons8.com/fluency/24/check-all.png" width="22" valign="middle"/> &nbsp;Pydantic & Playwright
+### ✅ &nbsp;Pydantic & Playwright
 
 <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
@@ -364,7 +326,7 @@ Adopting **Pydantic** for rigorous data validation and typed models. Using **Pla
 
 <div align="center">
 
-### <img src="https://img.icons8.com/fluency/24/map.png" width="22" valign="middle"/> &nbsp;Full Engineering Roadmap
+### 🗺️ &nbsp;Full Engineering Roadmap
 
 | Status | Domain | Topics |
 |:---:|:---|:---|
@@ -384,6 +346,7 @@ Adopting **Pydantic** for rigorous data validation and typed models. Using **Pla
 | <img src="https://img.shields.io/badge/Active-1565C0?style=flat-square&labelColor=1a1a2e"/> | **Data Validation** | Pydantic-AI · UV · Advanced Type Systems |
 | <img src="https://img.shields.io/badge/Next-6A1B9A?style=flat-square&labelColor=1a1a2e"/> | **Deep Learning** | Neural Architectures · Backprop · CNNs · Attention |
 | <img src="https://img.shields.io/badge/Next-6A1B9A?style=flat-square&labelColor=1a1a2e"/> | **MLOps** | Model Versioning · CI/CD for ML · Monitoring in Production |
+
 </div>
 
 ---
