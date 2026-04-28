@@ -223,50 +223,6 @@ I build *with* Claude, not just alongside it. From wiring the **Anthropic API** 
 
 ---
 
-## 🤖 &nbsp;Anthropic & Claude — A Dedicated Toolkit
-
-> *Not just a user. A builder on top of the platform.*
-
-<table>
-<tr>
-<td width="33%" align="center" valign="top">
-
-### 🔌 &nbsp;Claude API
-
-<img src="https://img.shields.io/badge/Anthropic%20API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
-
-**`/v1/messages` · claude-sonnet · RAG**
-
-Integrating Claude directly into Python pipelines. Used the Anthropic API to power a RAG system over private documents — real queries, real context injection, real Claude responses. Not a wrapper. A first-principles integration built to understand how LLMs behave under the hood.
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### ✏️ &nbsp;Prompt Engineering
-
-<img src="https://img.shields.io/badge/Prompt%20Engineering-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
-
-**System prompts · Context windows · Retrieval**
-
-Designing prompts that hold up under edge cases. Structuring system prompts for role clarity, injecting retrieved chunks cleanly, and keeping token budgets tight. Prompt engineering as a craft — not just trial and error.
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### 💻 &nbsp;Claude Code
-
-<img src="https://img.shields.io/badge/Claude%20Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
-
-**Terminal-first · Agentic coding · CLI workflows**
-
-Using Claude Code as a dev-loop accelerator — not for boilerplate generation, but for agentic refactoring, multi-file reasoning, and architecture-level suggestions. The new standard for serious Python developers who live in the terminal.
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🧭 &nbsp;Currently Exploring
 
 <div align="center">
