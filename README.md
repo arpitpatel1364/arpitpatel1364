@@ -40,7 +40,7 @@ If you're building something ambitious in **Backend Engineering**, **Computer Vi
 
 ---
 
-## 🗂️ &nbsp;The Story So Far
+## The Story So Far
 
 > *"I don't just write code — I architect systems that think, see, and scale."*
 
@@ -54,7 +54,7 @@ That's the kind of engineer I'm becoming — one sprint at a time.
 
 ---
 
-## ⚙️ &nbsp;Technical Arsenal
+## Technical Arsenal
 
 <div align="center">
 
@@ -137,7 +137,7 @@ That's the kind of engineer I'm becoming — one sprint at a time.
 
 ---
 
-## 💡 &nbsp;The Philosophy
+## The Philosophy
 
 > *I think of software in **systems**, not scripts.*
 
@@ -145,44 +145,44 @@ That's the kind of engineer I'm becoming — one sprint at a time.
 <tr>
 <td width="50%" valign="top">
 
-**🟢 Backend Engineering**
+**Backend Engineering**
 
 Three frameworks, one philosophy — **Django** for batteries-included production, **FastAPI** for async-first, high-throughput APIs, and **Flask** when lightweight control is what the system needs. I pair every API with **WebSockets** for real-time channels, **Celery** for heavy background tasks, and **Redis** for caching and pub/sub. Not tools — a stack.
 
 <br/>
 
-**🟣 AI Agents & RAG**
+**AI Agents & RAG**
 
 The next frontier isn't just models — it's models that *act*. I've built terminal-based AI agents and RAG pipelines that make LLMs genuinely useful over private data. I've explored RAG hands-on using the **Claude API** — querying private corpora through a live Claude model, not just reading about it.
 
 <br/>
 
-**🔴 Machine Learning**
+**Machine Learning**
 
 I've gone from *zero* to training, deploying, and evaluating my own YOLO models in a single month. The journey taught me that ML is 20% modeling and 80% data — cleaning it, annotating it, pipelining it. **VisionForge** was my answer: a full training toolkit built from scratch, with a Streamlit UI on top.
 
 </td>
 <td width="50%" valign="top">
 
-**🔵 Camera Security Systems**
+**Camera Security Systems**
 
 From pulling live **RTSP** streams over **ONVIF** to integrating with **XVR/NVR** hardware — I work at the edge where physical security meets software intelligence. **FFmpeg** pipelines decode **H.264/H.265** frames in real time, feeding directly into YOLO detection models. PTZ control, stream health monitoring, multi-camera orchestration, and device discovery over IP networks are first-class engineering problems in my stack. **Sentrix-AI** is the result.
 
 <br/>
 
-**🐳 Containers & Orchestration**
+**Containers & Orchestration**
 
 Shipping code is one thing. Shipping systems that *stay up* is another. I containerize pipelines with **Docker**, compose multi-service environments cleanly, and manage deployments with **Kubernetes** — pods, services, scaling, health checks. Infrastructure is not an afterthought; it's the last mile between an idea and a running product.
 
 <br/>
 
-**⚡ Concurrency**
+**Concurrency**
 
 The GIL is not an enemy — it's a puzzle. I've shipped multiprocessing solutions that bypass it entirely, async pipelines that never block, and threading models that stay safe. Performance isn't a feature; it's a discipline.
 
 <br/>
 
-**🤖 Claude & Anthropic**
+**Claude & Anthropic**
 
 I build *with* Claude, not just alongside it. From wiring the **Anthropic API** into RAG pipelines to using **Claude Code** as a terminal-first dev partner — I treat Claude as infrastructure. Prompt engineering, agentic chaining, private-data retrieval: these are first-class engineering concerns in my stack, not afterthoughts.
 
@@ -192,7 +192,7 @@ I build *with* Claude, not just alongside it. From wiring the **Anthropic API** 
 
 ---
 
-## 📷 &nbsp;Sentrix-AI
+## Sentrix-AI
 
 > *Where computer vision meets physical security infrastructure.*
 
@@ -200,7 +200,7 @@ I build *with* Claude, not just alongside it. From wiring the **Anthropic API** 
 <tr>
 <td width="100%" valign="top">
 
-### 🔒 &nbsp;Sentrix-AI — Intelligent Camera Security System
+### Sentrix-AI — Intelligent Camera Security System
 
 <img src="https://img.shields.io/badge/Status-Actively%20Building-00C853?style=for-the-badge&labelColor=1a1a2e"/>
 &nbsp;
@@ -225,7 +225,7 @@ I build *with* Claude, not just alongside it. From wiring the **Anthropic API** 
 
 ---
 
-## 🧭 &nbsp;Currently Exploring
+## Currently Exploring
 
 <div align="center">
 
@@ -239,7 +239,7 @@ I build *with* Claude, not just alongside it. From wiring the **Anthropic API** 
 <tr>
 <td width="25%" align="center" valign="top">
 
-### 🔗 &nbsp;LangChain & LangGraph
+### LangChain & LangGraph
 
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangGraph-6D28D9?style=for-the-badge&logo=graphql&logoColor=white"/>
@@ -249,7 +249,7 @@ Building **multi-step agentic workflows** beyond single-prompt RAG. LangGraph's 
 </td>
 <td width="25%" align="center" valign="top">
 
-### 🤗 &nbsp;Hugging Face & Ollama
+### Hugging Face & Ollama
 
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white"/>
@@ -259,7 +259,7 @@ Going deeper into **transformer architectures** and fine-tuning pre-trained mode
 </td>
 <td width="25%" align="center" valign="top">
 
-### 🤖 &nbsp;Claude API & Claude Code
+### Claude API & Claude Code
 
 <img src="https://img.shields.io/badge/Claude%20API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude%20Code-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
@@ -269,7 +269,7 @@ Using the **Anthropic API** to wire Claude into real pipelines — RAG, agents, 
 </td>
 <td width="25%" align="center" valign="top">
 
-### ✅ &nbsp;Pydantic & Playwright
+### Pydantic & Playwright
 
 <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
@@ -284,7 +284,7 @@ Adopting **Pydantic** for rigorous data validation and typed models. Using **Pla
 
 <div align="center">
 
-### 🗺️ &nbsp;Full Engineering Roadmap
+### Full Engineering Roadmap
 
 | Status | Domain | Topics |
 |:---:|:---|:---|
