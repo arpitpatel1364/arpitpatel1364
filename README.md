@@ -22,7 +22,7 @@ If you're building something ambitious in **Backend Engineering**, **Computer Vi
   <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/>
 </a>
 &ensp;
-<a href="https://arpit-bhojani-portfolio.gt.tc/">
+<a href="https://arpit-bhojani-portfolio.onrender.com/">
   <img src="https://img.shields.io/badge/Portfolio-Check%20It%20Out-FF4B4B?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1a2e"/>
 </a>
 
